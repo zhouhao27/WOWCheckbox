@@ -17,6 +17,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 .DB_Store
+Checkbox.pcvd
 
 # CocoaPods
 #
