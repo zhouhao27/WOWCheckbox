@@ -1,0 +1,16 @@
+PODS:
+  - WOWCheckbox (1.1.0)
+
+DEPENDENCIES:
+  - WOWCheckbox (from `../`)
+
+EXTERNAL SOURCES:
+  WOWCheckbox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WOWCheckbox: 79c104f0f94b3b3f18880dd85a03de02e2528041
+
+PODFILE CHECKSUM: e5a405c30c5af97533da16b73b3c00a704935fd3
+
+COCOAPODS: 1.2.0.beta.1

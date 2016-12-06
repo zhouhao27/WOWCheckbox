@@ -1,0 +1,6 @@
+framework module WOWCheckbox {
+  umbrella header "WOWCheckbox-umbrella.h"
+
+  export *
+  module * { export * }
+}

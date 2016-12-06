@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WOWCheckbox_Example' do
+  pod 'WOWCheckbox', :path => '../'
+
+  target 'WOWCheckbox_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
