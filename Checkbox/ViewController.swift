@@ -27,7 +27,7 @@ class ViewController: UIViewController, WOWCheckboxDelegate {
         // Dispose of any resources that can be recreated.
     }
 
-    func didSelectCheckbox(checkbox : WOWCheckbox) {
+    func didSelectCheckbox(_ checkbox : WOWCheckbox) {
         
         let checked = checkbox.isChecked ? "checked" : "unchecked"
         
