@@ -9,7 +9,7 @@
 
 import UIKit
 
-public protocol WOWCheckboxDelegate {
+@objc public protocol WOWCheckboxDelegate {
     func didSelectCheckbox(_ checkbox : WOWCheckbox)
 }
 
@@ -73,10 +73,10 @@ open class WOWCheckbox : UIControl {
     // MARK: local functions
     func setup() {
         
-        self.addTarget(self, action: #selector(WOWCheckbox.onTouchUpInside(_:)), for: UIControlEvents.touchUpInside);
+      self.addTarget(self, action: #selector(WOWCheckbox.onTouchUpInside(_:)), for: UIControl.Event.touchUpInside);
     }
     
-    func onTouchUpInside(_ sender: UIButton) {
+    @objc func onTouchUpInside(_ sender: UIButton) {
         isChecked = !isChecked
         delegate?.didSelectCheckbox(self)
     }

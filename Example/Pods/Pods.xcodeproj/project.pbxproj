@@ -30,33 +30,33 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		02D2C09C621A8DA045164A26BF090FBC /* Pods_WOWCheckbox_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WOWCheckbox_Example.framework; path = "Pods-WOWCheckbox_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		02D2C09C621A8DA045164A26BF090FBC /* Pods_WOWCheckbox_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WOWCheckbox_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0819EEC7C370595A7F13F12B4CAB156A /* Pods-WOWCheckbox_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WOWCheckbox_Example.release.xcconfig"; sourceTree = "<group>"; };
 		10FB57ACB303271E266211C1916EE692 /* Pods-WOWCheckbox_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WOWCheckbox_Tests-dummy.m"; sourceTree = "<group>"; };
-		15D109992EA843F7A782A926731A28B7 /* Pods-WOWCheckbox_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WOWCheckbox_Tests.modulemap"; sourceTree = "<group>"; };
+		15D109992EA843F7A782A926731A28B7 /* Pods-WOWCheckbox_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-WOWCheckbox_Tests.modulemap"; sourceTree = "<group>"; };
 		16D6250E13EA6B4F3CBFCC602CD0822D /* WOWCheckbox.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WOWCheckbox.xcconfig; sourceTree = "<group>"; };
 		1721D1AC3487E3D8D40DC67928C703BD /* Pods-WOWCheckbox_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WOWCheckbox_Tests-umbrella.h"; sourceTree = "<group>"; };
 		275114999D42024AB2C54649D0A6A9BB /* Pods-WOWCheckbox_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WOWCheckbox_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		297C2BE6EF80FCE33E69BE97C3697AC3 /* Pods-WOWCheckbox_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WOWCheckbox_Example-dummy.m"; sourceTree = "<group>"; };
 		29B0389E462CEA35E0C8A2BA7447B8EF /* Pods-WOWCheckbox_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WOWCheckbox_Example-frameworks.sh"; sourceTree = "<group>"; };
 		33B227C57B4B491DF820ED2CF1AE49F7 /* Pods-WOWCheckbox_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WOWCheckbox_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3A1E9826F95B76130401C7FBAE5B0B82 /* WOWCheckbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WOWCheckbox.framework; path = WOWCheckbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3DEA0BC8F4227458D6101BDDE7D8F0AE /* Pods-WOWCheckbox_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WOWCheckbox_Example.modulemap"; sourceTree = "<group>"; };
+		3A1E9826F95B76130401C7FBAE5B0B82 /* WOWCheckbox.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WOWCheckbox.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DEA0BC8F4227458D6101BDDE7D8F0AE /* Pods-WOWCheckbox_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-WOWCheckbox_Example.modulemap"; sourceTree = "<group>"; };
 		41BF885E7F0B8F207D3E18D2B6560742 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4838CF5F58A19F686D940D5739AB75A4 /* Pods-WOWCheckbox_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WOWCheckbox_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		648FECC9D89822C9690C0001431769BC /* Pods-WOWCheckbox_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WOWCheckbox_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6AF7F060EA4181343C7B9423B9DC86A8 /* Pods-WOWCheckbox_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WOWCheckbox_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		6DA5884BF3E41BE20E72C483FE0F63AB /* Pods-WOWCheckbox_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WOWCheckbox_Tests-resources.sh"; sourceTree = "<group>"; };
 		6DC8B0E5C0F31E60ADB2AE27CA71CE09 /* Pods-WOWCheckbox_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WOWCheckbox_Example-umbrella.h"; sourceTree = "<group>"; };
-		78CFEABC32E98A63952BA07A0FCB8081 /* WOWCheckbox.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = WOWCheckbox.modulemap; sourceTree = "<group>"; };
+		78CFEABC32E98A63952BA07A0FCB8081 /* WOWCheckbox.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = WOWCheckbox.modulemap; sourceTree = "<group>"; };
 		7E8E08B0A89DACB58364A95CE6C67889 /* WOWCheckbox-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WOWCheckbox-prefix.pch"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95D939E4350B937ED522F91BA47BCD1F /* Pods-WOWCheckbox_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WOWCheckbox_Example-resources.sh"; sourceTree = "<group>"; };
 		A5906F14FFAD3E44D239EC69CC3A78F8 /* Pods-WOWCheckbox_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WOWCheckbox_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		AB142244818AEF1117D6DA7608BDEBF4 /* Pods-WOWCheckbox_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WOWCheckbox_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		AEA2B911AB4858772B8EDC875F013DC9 /* Pods-WOWCheckbox_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WOWCheckbox_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B98545D873863D9BF205C9FC80E1FB1C /* WOWCheckbox.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WOWCheckbox.swift; sourceTree = "<group>"; };
-		BCC850278AD879756695E9809ECDED99 /* Pods_WOWCheckbox_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WOWCheckbox_Tests.framework; path = "Pods-WOWCheckbox_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCC850278AD879756695E9809ECDED99 /* Pods_WOWCheckbox_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WOWCheckbox_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E04A759672D71C36A2ECF680723DCABA /* WOWCheckbox-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WOWCheckbox-dummy.m"; sourceTree = "<group>"; };
 		E4B9E5340D0AF189552BA2DD81BA83EE /* WOWCheckbox-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WOWCheckbox-umbrella.h"; sourceTree = "<group>"; };
@@ -121,7 +121,6 @@
 			children = (
 				B98545D873863D9BF205C9FC80E1FB1C /* WOWCheckbox.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -165,7 +164,6 @@
 			children = (
 				5DD3BAC91D97A5723AB7F53BA3D53BA5 /* Classes */,
 			);
-			name = WOWCheckbox;
 			path = WOWCheckbox;
 			sourceTree = "<group>";
 		};
@@ -432,7 +430,7 @@
 				PRODUCT_NAME = WOWCheckbox;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -535,7 +533,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
