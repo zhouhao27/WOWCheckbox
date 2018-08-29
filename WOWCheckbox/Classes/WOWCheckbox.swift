@@ -73,7 +73,7 @@ open class WOWCheckbox : UIControl {
     // MARK: local functions
     func setup() {
         
-      self.addTarget(self, action: #selector(WOWCheckbox.onTouchUpInside(_:)), for: UIControl.Event.touchUpInside);
+      self.addTarget(self, action: #selector(WOWCheckbox.onTouchUpInside(_:)), for: .touchUpInside);
     }
     
     @objc func onTouchUpInside(_ sender: UIButton) {
