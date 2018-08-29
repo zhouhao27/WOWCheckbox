@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WOWCheckbox'
-  s.version          = '1.2.1'
+  s.version          = '1.2.2'
   s.summary          = 'Highly customisable checkbox in Swift.'
 
   s.description      = <<-DESC
