@@ -13,6 +13,7 @@ A highly customisable checkbox in Swift. Swift 4.0 compatible.
   s.source           = { :git => 'https://github.com/zhouhao27/WOWCheckbox.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '4.1'
 
   s.source_files = 'WOWCheckbox/Classes/**/*'
 end
